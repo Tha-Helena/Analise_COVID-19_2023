@@ -25,5 +25,5 @@ O objetivo da análise foi de elevar a consciência situacional a respeito do CO
 ## Outros Projetos Meus:
 
 Business
-* **[Análise sobre a COVID-19](https://tinyurl.com/yuzycjhh)**
+* **[Análise dos Dados do Airbnb - Buenos Aires](https://tinyurl.com/3sndvmkp)**
 
