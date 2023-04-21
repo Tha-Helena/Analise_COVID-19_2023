@@ -11,7 +11,7 @@ Repositória de análise sobre a COVID-19
 
 O objetivo da análise foi de elevar a consciência situacional a respeito do COVID-19 em todo o mundo, mas como foco principal o Brasil, realizei uma análise sobre os dados públicos da doença.
 
-[Link para o projeto completo](https://github.com/Tha-Helena/Analise_de_Dados_Airbnb_Buenos_Aires/blob/main/Projeto_01_Analisando_os_Dados_do_Airbnb.ipynb)
+[Link para o projeto completo](https://github.com/Tha-Helena/Analise_COVID-19_2023/blob/main/Projeto_02_Panorama_do_COVID_19_no_Brasil.ipynb)
 
 **Links para me acharem:**
 * [Blog](https://github.com/Tha-Helena)
