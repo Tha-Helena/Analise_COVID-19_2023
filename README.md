@@ -26,4 +26,6 @@ O objetivo da análise foi de elevar a consciência situacional a respeito do CO
 
 Business
 * **[Análise dos Dados do Airbnb - Buenos Aires](https://tinyurl.com/3sndvmkp)**
+* **[Detecção de Fraude em Cartões de Crédito](https://tinyurl.com/4wxt73rx)**
+
 
